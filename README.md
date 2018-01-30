@@ -10,7 +10,7 @@
 
 The concept of a pull request is unique to Github. It is a request for the
 owner of a receiving repository (`learn-co-students` in the case of labs) to
-"pull" an update from _your_ "fork" of that repository.
+"pull" an update from your "fork" of that repository.
 
 Pull requests are what power the open source community. Through this process,
 anyone can fork a repo, make changes and submit a pull request. Now instead of
