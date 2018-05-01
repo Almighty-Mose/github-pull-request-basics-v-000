@@ -112,3 +112,5 @@ commits will be added automatically.
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/github-pull-request-basics' title='Github Pull Request Basics'>Github Pull Request Basics</a> on Learn.co and start learning to code for free.</p>
 
 [pr]: https://github.com/ruby/ruby/pull/1051
+
+# if i add some random text at the bottom of this and then submit a pull request does that satisfy the conditions of the lab?
